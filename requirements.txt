@@ -9,7 +9,7 @@ django-toolbelt==0.0.1
 django-wysiwyg==0.7.1
 gunicorn==19.3.0
 Pillow==3.0.0
-psycopg2==2.6.1
+psycopg2==2.7.3.1
 static3==0.6.1
 wheel==0.24.0
 django-extensions
